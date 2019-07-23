@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Brave&amp;trade; portable releases</title>
+    <description>A free and open-source web browser based on the Chromium web browser and its Blink engine.</description>
+    <link>https://portapps.io/app/brave-portable/</link>
+    <atom:link href="https://portapps.io/app/brave-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>brave-portable-win32-0.66.100-25-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 17 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.66.100-25-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.66.100-25-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win64-0.66.100-25-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 17 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.66.100-25-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.66.100-25-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win32-0.66.100-25.7z</title>
+    <description></description>
+    <pubDate>Wed, 17 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.66.100-25.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.66.100-25.7z</guid>
+  </item><item>
+    <title>brave-portable-win64-0.66.100-25.7z</title>
+    <description></description>
+    <pubDate>Wed, 17 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.66.100-25.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.66.100-25.7z</guid>
+  </item><item>
+    <title>brave-portable-win32-0.66.99-24-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.66.99-24-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.66.99-24-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win64-0.66.99-24-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.66.99-24-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.66.99-24-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win32-0.66.99-24.7z</title>
+    <description></description>
+    <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.66.99-24.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.66.99-24.7z</guid>
+  </item><item>
+    <title>brave-portable-win64-0.66.99-24.7z</title>
+    <description></description>
+    <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.66.99-24.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.66.99-24.7z</guid>
+  </item><item>
+    <title>brave-portable-win32-0.65.121-23-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 21 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.65.121-23-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.65.121-23-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win64-0.65.121-23-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 21 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.65.121-23-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.65.121-23-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win32-0.65.121-23.7z</title>
+    <description></description>
+    <pubDate>Fri, 21 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.65.121-23.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.65.121-23.7z</guid>
+  </item><item>
+    <title>brave-portable-win64-0.65.121-23.7z</title>
+    <description></description>
+    <pubDate>Fri, 21 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.65.121-23.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.65.121-23.7z</guid>
+  </item><item>
+    <title>brave-portable-win32-0.65.120-22-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 16 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.65.120-22-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.65.120-22-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win64-0.65.120-22-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 16 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.65.120-22-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.65.120-22-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win32-0.65.120-22.7z</title>
+    <description></description>
+    <pubDate>Sun, 16 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.65.120-22.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.65.120-22.7z</guid>
+  </item><item>
+    <title>brave-portable-win64-0.65.120-22.7z</title>
+    <description></description>
+    <pubDate>Sun, 16 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.65.120-22.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.65.120-22.7z</guid>
+  </item><item>
+    <title>brave-portable-win32-0.65.118-21-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.65.118-21-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.65.118-21-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win64-0.65.118-21-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.65.118-21-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.65.118-21-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win32-0.65.118-21.7z</title>
+    <description></description>
+    <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.65.118-21.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.65.118-21.7z</guid>
+  </item><item>
+    <title>brave-portable-win64-0.65.118-21.7z</title>
+    <description></description>
+    <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.65.118-21.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.65.118-21.7z</guid>
+  </item><item>
+    <title>brave-portable-win32-0.64.77-20-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.64.77-20-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.64.77-20-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win64-0.64.77-20-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.64.77-20-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.64.77-20-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win32-0.64.77-20.7z</title>
+    <description></description>
+    <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.64.77-20.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.64.77-20.7z</guid>
+  </item><item>
+    <title>brave-portable-win64-0.64.77-20.7z</title>
+    <description></description>
+    <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.64.77-20.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.64.77-20.7z</guid>
+  </item><item>
+    <title>brave-portable-win32-0.64.76-19-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 19 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.64.76-19-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.64.76-19-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win64-0.64.76-19-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 19 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.64.76-19-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.64.76-19-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win32-0.64.76-19.7z</title>
+    <description></description>
+    <pubDate>Sun, 19 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.64.76-19.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.64.76-19.7z</guid>
+  </item><item>
+    <title>brave-portable-win64-0.64.76-19.7z</title>
+    <description></description>
+    <pubDate>Sun, 19 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.64.76-19.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.64.76-19.7z</guid>
+  </item><item>
+    <title>brave-portable-win32-0.64.75-18-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 16 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.64.75-18-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.64.75-18-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win64-0.64.75-18-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 16 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.64.75-18-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.64.75-18-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win32-0.64.75-18.7z</title>
+    <description></description>
+    <pubDate>Thu, 16 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.64.75-18.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.64.75-18.7z</guid>
+  </item><item>
+    <title>brave-portable-win64-0.64.75-18.7z</title>
+    <description></description>
+    <pubDate>Thu, 16 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.64.75-18.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.64.75-18.7z</guid>
+  </item><item>
+    <title>brave-portable-win32-0.64.75-17-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 15 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.64.75-17-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.64.75-17-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win64-0.64.75-17-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 15 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.64.75-17-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.64.75-17-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win32-0.64.75-17.7z</title>
+    <description></description>
+    <pubDate>Wed, 15 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.64.75-17.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.64.75-17.7z</guid>
+  </item><item>
+    <title>brave-portable-win64-0.64.75-17.7z</title>
+    <description></description>
+    <pubDate>Wed, 15 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.64.75-17.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.64.75-17.7z</guid>
+  </item><item>
+    <title>brave-portable-win32-0.63.55-16-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.63.55-16-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.63.55-16-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win64-0.63.55-16-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.63.55-16-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.63.55-16-setup.exe</guid>
+  </item><item>
+    <title>brave-portable-win32-0.63.55-16.7z</title>
+    <description></description>
+    <pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win32-0.63.55-16.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win32-0.63.55-16.7z</guid>
+  </item><item>
+    <title>brave-portable-win64-0.63.55-16.7z</title>
+    <description></description>
+    <pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/brave-portable-win64-0.63.55-16.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/brave-portable-win64-0.63.55-16.7z</guid>
+  </item>
+  </channel>
+</rss>

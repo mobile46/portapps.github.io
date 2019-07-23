@@ -1,0 +1,54 @@
+{
+  "name": "franz",
+  "label": "Franz&trade;",
+  "desc": "Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and many many more.",
+  "license": "apache-2.0",
+  "discontinued": false,
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "franz-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://meetfranz.com/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Franz\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "5.2.0",
+      "release": "3",
+      "date": "2019/07/21",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.1.0",
+      "release": "2",
+      "date": "2019/05/17",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.1.0",
+      "release": "1",
+      "date": "2019/05/08",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

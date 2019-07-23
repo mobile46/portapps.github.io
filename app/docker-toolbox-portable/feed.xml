@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Docker&amp;trade; Toolbox portable releases</title>
+    <description>Provides a way to use Docker on Windows systems.</description>
+    <link>https://portapps.io/app/docker-toolbox-portable/</link>
+    <atom:link href="https://portapps.io/app/docker-toolbox-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>docker-toolbox-portable-win64-18.09.3-5-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 17 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win64-18.09.3-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win64-18.09.3-5-setup.exe</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win64-18.09.3-5.7z</title>
+    <description></description>
+    <pubDate>Sun, 17 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win64-18.09.3-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win64-18.09.3-5.7z</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win64-18.09.3-4-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 05 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win64-18.09.3-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win64-18.09.3-4-setup.exe</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win64-18.09.3-4.7z</title>
+    <description></description>
+    <pubDate>Tue, 05 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win64-18.09.3-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win64-18.09.3-4.7z</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win64-18.09.2-2-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win64-18.09.2-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win64-18.09.2-2-setup.exe</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win64-18.09.2-2.7z</title>
+    <description></description>
+    <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win64-18.09.2-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win64-18.09.2-2.7z</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win64-18.09.1-1-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 03 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win64-18.09.1-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win64-18.09.1-1-setup.exe</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win64-18.09.1-1.7z</title>
+    <description></description>
+    <pubDate>Sun, 03 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win64-18.09.1-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win64-18.09.1-1.7z</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.09.1-7-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.09.1-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.09.1-7-setup.exe</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.09.1-7.7z</title>
+    <description></description>
+    <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.09.1-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.09.1-7.7z</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.09.0-6-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 09 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.09.0-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.09.0-6-setup.exe</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.09.0-6.7z</title>
+    <description></description>
+    <pubDate>Fri, 09 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.09.0-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.09.0-6.7z</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.06.1-5-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 Aug 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.06.1-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.06.1-5-setup.exe</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.06.1-5.7z</title>
+    <description></description>
+    <pubDate>Thu, 23 Aug 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.06.1-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.06.1-5.7z</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.06.0-4-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 24 Jul 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.06.0-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.06.0-4-setup.exe</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.06.0-4.7z</title>
+    <description></description>
+    <pubDate>Tue, 24 Jul 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.06.0-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.06.0-4.7z</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.03.0-3-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.03.0-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.03.0-3-setup.exe</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.03.0-3.7z</title>
+    <description></description>
+    <pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.03.0-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.03.0-3.7z</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.02.0-2-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 13 Mar 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.02.0-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.02.0-2-setup.exe</guid>
+  </item><item>
+    <title>docker-toolbox-portable-win32-18.02.0-2.7z</title>
+    <description></description>
+    <pubDate>Tue, 13 Mar 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/docker-toolbox-portable-win32-18.02.0-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/docker-toolbox-portable-win32-18.02.0-2.7z</guid>
+  </item>
+  </channel>
+</rss>

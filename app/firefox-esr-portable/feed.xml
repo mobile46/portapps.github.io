@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Firefox&amp;trade; ESR portable releases</title>
+    <description>Extended Support Release of Firefox web browser developed by The Mozilla Foundation.</description>
+    <link>https://portapps.io/app/firefox-esr-portable/</link>
+    <atom:link href="https://portapps.io/app/firefox-esr-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>firefox-esr-portable-win32-60.8.0-16-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 08 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.8.0-16-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.8.0-16-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.8.0-16-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 08 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.8.0-16-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.8.0-16-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.8.0-16.7z</title>
+    <description></description>
+    <pubDate>Mon, 08 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.8.0-16.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.8.0-16.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.8.0-16.7z</title>
+    <description></description>
+    <pubDate>Mon, 08 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.8.0-16.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.8.0-16.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.7.2-14-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 21 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.7.2-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.7.2-14-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.7.2-14-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 21 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.7.2-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.7.2-14-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.7.2-14.7z</title>
+    <description></description>
+    <pubDate>Fri, 21 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.7.2-14.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.7.2-14.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.7.2-14.7z</title>
+    <description></description>
+    <pubDate>Fri, 21 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.7.2-14.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.7.2-14.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.7.1-13-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 18 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.7.1-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.7.1-13-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.7.1-13-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 18 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.7.1-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.7.1-13-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.7.1-13.7z</title>
+    <description></description>
+    <pubDate>Tue, 18 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.7.1-13.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.7.1-13.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.7.1-13.7z</title>
+    <description></description>
+    <pubDate>Tue, 18 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.7.1-13.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.7.1-13.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.7.0-12-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.7.0-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.7.0-12-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.7.0-12-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.7.0-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.7.0-12-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.7.0-12.7z</title>
+    <description></description>
+    <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.7.0-12.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.7.0-12.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.7.0-12.7z</title>
+    <description></description>
+    <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.7.0-12.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.7.0-12.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.7.0-11-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 21 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.7.0-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.7.0-11-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.7.0-11-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 21 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.7.0-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.7.0-11-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.7.0-11.7z</title>
+    <description></description>
+    <pubDate>Tue, 21 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.7.0-11.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.7.0-11.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.7.0-11.7z</title>
+    <description></description>
+    <pubDate>Tue, 21 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.7.0-11.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.7.0-11.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.7.0-10-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 20 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.7.0-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.7.0-10-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.7.0-10-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 20 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.7.0-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.7.0-10-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.7.0-10.7z</title>
+    <description></description>
+    <pubDate>Mon, 20 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.7.0-10.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.7.0-10.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.7.0-10.7z</title>
+    <description></description>
+    <pubDate>Mon, 20 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.7.0-10.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.7.0-10.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.6.3-8-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.6.3-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.6.3-8-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.6.3-8-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.6.3-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.6.3-8-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.6.3-8.7z</title>
+    <description></description>
+    <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.6.3-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.6.3-8.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.6.3-8.7z</title>
+    <description></description>
+    <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.6.3-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.6.3-8.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.6.2-7-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 05 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.6.2-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.6.2-7-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.6.2-7-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 05 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.6.2-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.6.2-7-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.6.2-7.7z</title>
+    <description></description>
+    <pubDate>Sun, 05 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.6.2-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.6.2-7.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.6.2-7.7z</title>
+    <description></description>
+    <pubDate>Sun, 05 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.6.2-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.6.2-7.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.6.1-6-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 23 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.6.1-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.6.1-6-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.6.1-6-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 23 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.6.1-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.6.1-6-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.6.1-6.7z</title>
+    <description></description>
+    <pubDate>Sat, 23 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.6.1-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.6.1-6.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.6.1-6.7z</title>
+    <description></description>
+    <pubDate>Sat, 23 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.6.1-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.6.1-6.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.6.0-5-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.6.0-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.6.0-5-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.6.0-5-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.6.0-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.6.0-5-setup.exe</guid>
+  </item><item>
+    <title>firefox-esr-portable-win32-60.6.0-5.7z</title>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win32-60.6.0-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win32-60.6.0-5.7z</guid>
+  </item><item>
+    <title>firefox-esr-portable-win64-60.6.0-5.7z</title>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/firefox-esr-portable-win64-60.6.0-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/firefox-esr-portable-win64-60.6.0-5.7z</guid>
+  </item>
+  </channel>
+</rss>

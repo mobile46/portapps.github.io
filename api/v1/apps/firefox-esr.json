@@ -1,0 +1,135 @@
+{
+  "name": "firefox-esr",
+  "label": "Firefox&trade; ESR",
+  "desc": "Extended Support Release of Firefox web browser developed by The Mozilla Foundation.",
+  "license": "mpl-2.0",
+  "discontinued": false,
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "firefox-esr-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.mozilla.org/en-US/firefox/organizations",
+  "move": [
+    {
+      "from": "%APPDATA%\\Mozilla\\Firefox\\Profiles\\*.default\\*",
+      "to": "data\\profile\\default"
+    }
+  ],
+  "releases": [
+    {
+      "version": "60.8.0",
+      "release": "16",
+      "date": "2019/07/08",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.7.2",
+      "release": "14",
+      "date": "2019/06/21",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.7.1",
+      "release": "13",
+      "date": "2019/06/18",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.7.0",
+      "release": "12",
+      "date": "2019/06/06",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.7.0",
+      "release": "11",
+      "date": "2019/05/21",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.7.0",
+      "release": "10",
+      "date": "2019/05/20",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.6.3",
+      "release": "8",
+      "date": "2019/05/08",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.6.2",
+      "release": "7",
+      "date": "2019/05/05",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.6.1",
+      "release": "6",
+      "date": "2019/03/23",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.6.0",
+      "release": "5",
+      "date": "2019/03/20",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.5.2",
+      "release": "4",
+      "date": "2019/03/18",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.5.2",
+      "release": "3",
+      "date": "2019/03/06",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

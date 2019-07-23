@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Wire&amp;trade; portable releases</title>
+    <description>An encrypted communications program.</description>
+    <link>https://portapps.io/app/wire-portable/</link>
+    <atom:link href="https://portapps.io/app/wire-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>wire-portable-win32-3.9.2928-2-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 28 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wire-portable-win32-3.9.2928-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wire-portable-win32-3.9.2928-2-setup.exe</guid>
+  </item><item>
+    <title>wire-portable-win32-3.9.2928-2.7z</title>
+    <description></description>
+    <pubDate>Fri, 28 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wire-portable-win32-3.9.2928-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wire-portable-win32-3.9.2928-2.7z</guid>
+  </item>
+  </channel>
+</rss>

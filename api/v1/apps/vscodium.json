@@ -1,0 +1,81 @@
+{
+  "name": "vscodium",
+  "label": "VSCodium",
+  "desc": "Free and open source software binaries of VSCode without MS branding/telemetry/licensing",
+  "license": "mit",
+  "discontinued": false,
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "vscodium-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://vscodium.com/",
+  "move": [
+    {
+      "from": "%APPDATA%\\VSCodium\\*",
+      "to": "data\\appdata\\VSCodium"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.36.1",
+      "release": "23",
+      "date": "2019/07/11",
+      "type": "release",
+      "original": "VSCodium-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.36.0",
+      "release": "22",
+      "date": "2019/07/04",
+      "type": "release",
+      "original": "VSCodium-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.35.1",
+      "release": "21",
+      "date": "2019/06/16",
+      "type": "release",
+      "original": "VSCodium-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.35.0",
+      "release": "20",
+      "date": "2019/06/07",
+      "type": "release",
+      "original": "VSCodium-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.34.0",
+      "release": "19",
+      "date": "2019/05/17",
+      "type": "release",
+      "original": "VSCodium-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.33.1",
+      "release": "18",
+      "date": "2019/04/17",
+      "type": "release",
+      "original": "VSCodium-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

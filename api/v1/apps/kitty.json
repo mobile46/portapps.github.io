@@ -1,0 +1,126 @@
+{
+  "name": "kitty",
+  "label": "KiTTY",
+  "desc": "A fork of PuTTY, the best telnet / SSH client in the world.",
+  "license": "mit",
+  "discontinued": false,
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["misc"],
+  "github": {
+    "user": "portapps",
+    "repo": "kitty-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "http://www.9bis.net/kitty/",
+  "move": [
+    {
+      "from": "<APP_PATH>\\kitty.ini",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "0.71.0.6",
+      "release": "8",
+      "date": "2019/07/19",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.71.0.5",
+      "release": "7",
+      "date": "2019/07/01",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.71.0.4",
+      "release": "6",
+      "date": "2019/06/13",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.71.0.3",
+      "release": "5",
+      "date": "2019/06/08",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.71.0.2",
+      "release": "4",
+      "date": "2019/05/29",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.71.0.1",
+      "release": "3",
+      "date": "2019/05/22",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.70.0.10",
+      "release": "1",
+      "date": "2019/03/29",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.70.0.9",
+      "release": "4",
+      "date": "2019/01/25",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.70.0.8",
+      "release": "3",
+      "date": "2019/01/10",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.70.0.7",
+      "release": "2",
+      "date": "2018/11/29",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.70.0.6",
+      "release": "1",
+      "date": "2018/10/17",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

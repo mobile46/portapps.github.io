@@ -1,0 +1,72 @@
+{
+  "name": "waterfox",
+  "label": "Waterfox&trade;",
+  "desc": "An open-source web browser intended to be speedy, ethical and maintain support for legacy extensions",
+  "license": "mpl-2.0",
+  "discontinued": false,
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "waterfox-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.waterfox.net/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Waterfox\\Profiles\\*.default\\*",
+      "to": "data\\profile\\default"
+    }
+  ],
+  "releases": [
+    {
+      "version": "56.2.12",
+      "release": "6",
+      "date": "2019/07/12",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "56.2.11",
+      "release": "5",
+      "date": "2019/06/21",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "56.2.10",
+      "release": "4",
+      "date": "2019/06/06",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "56.2.10",
+      "release": "3",
+      "date": "2019/05/18",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "56.2.9",
+      "release": "1",
+      "date": "2019/05/04",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

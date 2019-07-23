@@ -1,0 +1,153 @@
+{
+  "name": "insomnia",
+  "label": "Insomnia&trade;",
+  "desc": "Debug APIs like a human, not a robot.",
+  "license": "mit",
+  "discontinued": false,
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "insomnia-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://insomnia.rest",
+  "move": [
+    {
+      "from": "%APPDATA%\\Insomnia\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "6.5.4",
+      "release": "8",
+      "date": "2019/06/02",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.5.3",
+      "release": "7",
+      "date": "2019/05/16",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.5.0",
+      "release": "6",
+      "date": "2019/05/07",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.4.2",
+      "release": "5",
+      "date": "2019/05/01",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.4.1",
+      "release": "4",
+      "date": "2019/04/24",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.4.0",
+      "release": "3",
+      "date": "2019/04/20",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.3.2",
+      "release": "1",
+      "date": "2019/03/18",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.3.2",
+      "release": "7",
+      "date": "2018/12/20",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.3.0",
+      "release": "6",
+      "date": "2018/12/15",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.2.3",
+      "release": "5",
+      "date": "2018/11/30",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.2.0",
+      "release": "4",
+      "date": "2018/11/09",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.0.2",
+      "release": "3",
+      "date": "2018/10/21",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.0.1",
+      "release": "2",
+      "date": "2018/07/26",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.16.6",
+      "release": "1",
+      "date": "2018/07/13",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

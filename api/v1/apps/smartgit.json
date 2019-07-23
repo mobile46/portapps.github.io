@@ -1,0 +1,148 @@
+{
+  "name": "smartgit",
+  "label": "SmartGit&trade;",
+  "desc": "A graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.",
+  "license": "freeware",
+  "discontinued": false,
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "smartgit-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.syntevo.com/smartgit/",
+  "move": [
+    {
+      "from": "%APPDATA%\\syntevo\\SmartGit\\<major-smartgit-version>\\*",
+      "to": "data\\.settings"
+    },
+    {
+      "from": "%APPDATA%\\syntevo\\SmartGit\\smartgit.vmoptions",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "18.2.9",
+      "release": "8",
+      "date": "2019/06/20",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.8",
+      "release": "7",
+      "date": "2019/05/21",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.7",
+      "release": "6",
+      "date": "2019/04/10",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.6",
+      "release": "5",
+      "date": "2019/04/08",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.6",
+      "release": "4",
+      "date": "2019/02/26",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.5",
+      "release": "2",
+      "date": "2019/02/05",
+      "type": "broken",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.4",
+      "release": "7",
+      "date": "2019/01/18",
+      "type": "broken",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.3",
+      "release": "6",
+      "date": "2018/12/21",
+      "type": "broken",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.2",
+      "release": "5",
+      "date": "2018/12/17",
+      "type": "broken",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.1",
+      "release": "4",
+      "date": "2018/12/06",
+      "type": "broken",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.0",
+      "release": "3",
+      "date": "2018/12/04",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.0",
+      "release": "2",
+      "date": "2018/12/01",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.1.5",
+      "release": "1",
+      "date": "2018/11/24",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
